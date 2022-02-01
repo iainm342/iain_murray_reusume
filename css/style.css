@@ -29,7 +29,11 @@ h2, h3 {
     position: absolute;
     right: 400px;
     top: 50px;
+}
 
+.middle-container img {
+    height: 300px;
+    width: 300px;
 }
 
 
